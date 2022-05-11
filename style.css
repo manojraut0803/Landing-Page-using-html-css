@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 80vw;
+}
+
+.navbar {
+    display: flex;
+    height: 67px;
+}
+
+.navbar li {
+    list-style: none;
+    margin: 0 12px;
+}
+
+.topleft {
+    width: 50%;
+
+}
+
+.topright {
+    width: 50%;
+
+
+}
+
+.section1 {
+    min-height: 100vh;
+
+}
+
+.section h1 {
+    font-size: 2rem;
+}
+
+.logo {
+    font-size: 1.5rem;
+}
+
+.yoga {
+    width: 250px;
+}
+
+.topright .yogaimg {
+    width: 555px;
+}
+
+.section0 {
+    padding: 66px;
+    ;
+}
+
+.section3 {
+    padding-left: 23px;
+}
+
+.section3 h3 {
+    background-color: rgb(239, 218, 225);
+    font-size: 2rem;
+}
+
+.section3 h4 {
+    background-color: rgb(199, 154, 154);
+    width: 190px;
+}
+
+.section3 p {
+    padding: 13px;
+}
+
+.trainer ul li{
+    padding: 4px;
+    margin: 21px;
+}
+.section2 {
+    padding-left: 66px;
+    padding-right: 66px;
+
+}
+
+.section2 h1 {
+    font-size: 2.5rem;
+}
+
+.section2 p {
+    padding: 0 8vw;
+    text-align: center;
+}
+
+.box {
+    padding: 8px 0px;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid rgb(94, 132, 234);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.box h2 {
+    font-size: 2rem;
+    padding: 12px;
+}
+
+.highlighted {
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.box ul {
+    list-style-type: none;
+}
+
+.box ul li {
+    margin: 12px 2px;
+}
+.img{
+    padding: 12px 0px;
+    margin: 25px 232px;
+}
+.section4 {
+    padding: 8px ;
+    margin: 22px; 
+    border: 2px solid rgb(82, 83, 86);
+    border-radius: 3px;  
+    background-color: rgb(203, 184, 224);
+    
+    text-align: center;
+}
+
+footer {
+    padding: 40px;
+    text-align: center;
+}
+
+footer p {
+    padding: 20px;
+}
